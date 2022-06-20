@@ -1,5 +1,5 @@
 {
-    "name": "spawar/php-random-quotes-generator",
+    "name": "spawar/demo",
     "description": "This liabrary is used to print Hello world",
     "type": "library",
     "license": "MIT",
