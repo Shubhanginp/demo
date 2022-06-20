@@ -1,0 +1,19 @@
+{
+    "name": "spawar/php-random-quotes-generator",
+    "description": "This liabrary is used to print Hello world",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shubhanginpawar",
+            "email": "shubhangipawar@webuy.com"
+        }
+    ], 
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
+    
+    "require": {}
+}
